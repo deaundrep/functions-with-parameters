@@ -1,23 +1,4 @@
-# Functions With Global Variables
-
-### Setup
-
-1. Navigate to this directory in your terminal.
-2. Run `npm install` to install the testing library.
-3. Preferably in a full-screen terminal, run `npm test` to start testing.
-
-
-### Workflow
-
-You'll be working in **`main.test.js`** this time!, creating the variables needed with the values asked for, according to the specifications given in the tests. Check your terminal for feedback on which aspect of the problem you have yet to complete, and read the specifications' actual code implementation for extra help; it makes explicit exactly what outputs are expected given the test inputs.
-
-
-### Guidelines:
-
-* This time, **declare your variables using `let`**!
-* Please do **not** call the functions; just declare them! You can call them to check for your own testing purposes, but then either delete or comment out the line.
-* If you are asked to define a variable in terms of another, do not recalculate the value of that variable. For example, if x = 5, and y = 6, and z is supposed to be x + y, do NOT set y to equal 11 directly. Use the variables instead.
-
+###Functions With Global Variables
 
 ### Tasks
 

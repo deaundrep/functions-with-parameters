@@ -8,11 +8,28 @@ let name = 'Jack'
 
 let greeting = "HEY"
 
-function multiply() { 
-;
+function multiply(num) { 
+x = x * num;
+
+} 
+
+function modYBy(num) {
+  y = y % num;
+
 }
 
+function opposite(num) {
+  z = 0 - num;
 
+}
+
+function makeFullName(num) {
+  name = name + " " + num;
+}
+
+function yellAt(name){
+greeting = greeting + ", " + name + '!';
+}
 
 
 /*******************************************************************************************************************
