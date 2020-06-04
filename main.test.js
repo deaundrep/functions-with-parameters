@@ -4,31 +4,28 @@ let y = 10;
 
 let z = 5
 
-let name = 'Jack'
+let name = 'DeAundre'
 
 let greeting = "HEY"
 
-function multiply(num) { 
-x = x * num;
-
+function multiply(param) { 
+x = x * param;
 } 
 
-function modYBy(num) {
-  y = y % num;
-
+function modYBy(param) {
+y = y % param;
 }
 
-function opposite(num) {
-  z = 0 - num;
-
+function opposite(param) {
+z = 0 - param;
 }
 
-function makeFullName(num) {
-  name = name + " " + num;
+function makeFullName(param) {
+name = name + " " + param;
 }
 
-function yellAt(name){
-greeting = greeting + ", " + name + '!';
+function yellAt(param){
+greeting = greeting + ", " + param + '!';
 }
 
 
